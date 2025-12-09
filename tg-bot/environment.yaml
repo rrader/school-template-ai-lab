@@ -15,6 +15,7 @@ dependencies:
   - ffmpeg
   - pip
   - pip:
+    - protobuf<4.0.0
     - mcpi
     - mediapipe
     - joblib
