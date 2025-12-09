@@ -1,0 +1,13 @@
+openai
+telepot
+typing-extensions==4.13.2
+keras
+numpy
+pillow
+tensorflow
+mediapipe
+opencv-python
+pandas
+pillow-heif
+scikit-learn
+joblib

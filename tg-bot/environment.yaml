@@ -1,0 +1,22 @@
+name: moodbot
+channels:
+  - conda-forge
+dependencies:
+  - python<=3.11
+  - mamba
+  - openai
+  - keras
+  - numpy
+  - pillow
+  - tensorflow
+  - opencv
+  - pandas
+  - scikit-learn
+  - ffmpeg
+  - pip
+  - pip:
+    - mcpi
+    - mediapipe
+    - joblib
+    - telepot
+    - pillow-heif
